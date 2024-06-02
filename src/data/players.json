@@ -1,0 +1,52 @@
+{
+    "players": [
+        {
+            "firstName": "John",
+            "lastName": "Doe",
+            "age": 65,
+            "team": "Rocket Star",
+            "nationality": "American",
+            "image": "https://images.pexels.com/photos/13201299/pexels-photo-13201299.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "hobbies": [
+                "reading",
+                "watching movies"
+            ]
+        },
+        {
+            "firstName": "Daniel",
+            "lastName": "Doe",
+            "age": 52,
+            "team": "Rocket Star",
+            "nationality": "American",
+            "image": "https://images.pexels.com/photos/13201299/pexels-photo-13201299.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "hobbies": [
+                "listening to music",
+                "watching movies"
+            ]
+        },
+        {
+            "firstName": "Tom",
+            "lastName": "Doe",
+            "age": 52,
+            "team": "Rocket Star",
+            "nationality": "American",
+            "image": "https://images.pexels.com/photos/13201299/pexels-photo-13201299.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "hobbies": [
+                "reading",
+                "watching movies"
+            ]
+        },
+        {
+            "firstName": "Brad",
+            "lastName": "Doe",
+            "age": 52,
+            "team": "Rocket Star",
+            "nationality": "American",
+            "image": "https://images.pexels.com/photos/13201299/pexels-photo-13201299.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+            "hobbies": [
+                "reading",
+                "watching movies"
+            ]
+        }
+    ]
+}
